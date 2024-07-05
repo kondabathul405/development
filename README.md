@@ -1,2 +1,2 @@
 # development
-development repo telugu skillhub
+development repo
